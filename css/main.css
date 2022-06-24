@@ -490,7 +490,7 @@ header.clean-page-header .clean-main-menu{
 
 .clean-main-menu .navbar-nav li a{
 	color: #333333;
-    font-size: 13px;
+    font-size: 25px;
     font-weight: 700;
     text-transform: uppercase;
     padding-top: 0;
@@ -545,9 +545,9 @@ header.clean-page-header .clean-main-menu.minified{
 }
 
 .clean-main-slides h1.clean-slider-text-big{
-	font-size: 48px;
+	font-size: 35px;
 	color: #ffffff;
-	text-transform: uppercase;
+	text-transform: none;
 	margin-top: 0;
 	margin-bottom: 25px;
 }
