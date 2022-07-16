@@ -538,7 +538,7 @@ header.clean-page-header .clean-main-menu.minified{
 
 .clean-main-slides .clean-img-overlay{
 	position: absolute;
-	background-color: rgba(218, 218, 234, 0.42);
+	background-color: rgba(218, 218, 234, 0.25);
 	width: 100%;
 	height: 100%;
 	top: 0;
